@@ -42,13 +42,13 @@ a:hover{
 section{
     padding: 10vh 0vh;
     padding-left: 30px;
-    line-height: 2em;
-    font-family: var(--fonte-texto);
-    font-size: 3.5vw;
 }
 
 section > p{
     padding-bottom: 2em;
+    line-height: 2em;
+    font-family: var(--fonte-texto);
+    font-size: 3.5vw;
 }
 
 section.imagem{
@@ -76,7 +76,7 @@ section#img02{
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
-    
+
 }
 
 footer{
